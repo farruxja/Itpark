@@ -4,7 +4,10 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+.qrcode{
+  margin-top: 150px;
+  margin-left: 150px;
+}
 a{
   text-decoration: none;
 }
